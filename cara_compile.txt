@@ -1,0 +1,2 @@
+-- otomatis include header
+$ gcc -Wall program.c -o program
